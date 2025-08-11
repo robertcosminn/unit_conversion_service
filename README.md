@@ -4,15 +4,14 @@ Convert common units (*length*, *weight*, *temperature*) straight from your term
 
 ---
 
-## ✨ Why you might care
+## ✨ Aspects
 
 * **MVCS layout** – easy to reason about & extend
-* **📦 Zero external services** – SQLite file DB; clone → install → run
+* **Zero external services** – SQLite file DB; clone → install → run
 * **Pydantic v2** – strong typing + runtime validation
 * **Click CLI** – auto `--help`, colors, sub‑commands
 * **LRU cache** – instant repeat conversions
 * **flake8 + pytest** – quality gates ready for CI
-* **One‑file swap to FastAPI** – add an HTTP layer in \~20 LOC
 
 ---
 
